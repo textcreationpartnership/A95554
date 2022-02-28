@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The liar. Or, A contradiction to those who in the titles of their bookes affirmed them to be true, when they were false : although mine are all true, yet I terme them lyes. Veritas veritatis.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95554</idno>
+            <idno type="STC">Wing T475</idno>
+            <idno type="STC">Thomason E169_8</idno>
+            <idno type="EEBO-CITATION">99873288</idno>
+            <idno type="PROQUEST">99873288</idno>
+            <idno type="VID">157023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157023)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E169[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The liar. Or, A contradiction to those who in the titles of their bookes affirmed them to be true, when they were false : although mine are all true, yet I terme them lyes. Veritas veritatis.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an illustrated title page.</note>
+                  <note>Attributed to John Taylor.  Cf. BM.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Truthfulness and falsehood --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157023:1"/>
+            <pb facs="tcp:157023:1" rendition="simple:additions"/>
+            <p>THE LIAR.</p>
+            <p>OR, A contradiction to thoſe who in the titles of their Bookes affirmed them to be true, when they were falſe: although mine are all true, yet I terme them lyes.</p>
+            <q xml:lang="lat">Veritas veritatis.</q>
+            <figure>
+               <head>The Liar rackt.</head>
+               <figDesc>depiction of a victim on a punitive positioning device</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157023:2"/>
+            <pb facs="tcp:157023:2"/>
+            <head>A Booke of Lyes.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here was an Engliſhman which travelled to the Swediſh army, and began to relate very ſtrange paſ<g ref="char:EOLhyphen"/>ſages which he had ſeene here in England, thinking that travellers mightlye by authority; for ſaid he, in the Coun<g ref="char:EOLhyphen"/>ty of Berke, at a place called Abingdon, when the Earle of Strafford loſt his head, was ſuch thundring and lightning, and earthquakes, that it is almoſt incredible. Surely I thinke it is in<g ref="char:EOLhyphen"/>credible indeed, for I know 'tis no ſuch matter.</p>
+            <p>He told too that the very ſame day that my L. Archbiſhop of Canterbury was committed to the Tower, there was a child born in the Coun<g ref="char:EOLhyphen"/>ty of Somerſet with a Miter on its head, a marke on his breaſt like a Crucifix, and many other ſtrange things which were there ſeene.</p>
+            <p>Another time, ſaid he, I ſaw a Lady goe over Thames at London ſtarke naked, without ſwim<g ref="char:EOLhyphen"/>ming, for ſhe cannot be drowned, <hi>ergo</hi> ſhee is a witch.</p>
+            <pb facs="tcp:157023:3"/>
+            <p> 
+               <hi>Item,</hi> he related unto them that the Biſhop of Canterbury was little better then a Papiſt, and that he was committed for that occaſion to the Tower, and that he was not like to be freed from thence till he came with his heeles forward.</p>
+            <p>
+               <hi>Item,</hi> he reported that <hi>Q. M.</hi> was to leave the fragrant ſoile of England, and go into Italy.</p>
+            <p>
+               <hi>Item,</hi> he related that <hi>Sucklin, Davenant,</hi> and <hi>Pearcy</hi> were accuſed as traytors, and fearing to be hanged, fled for it beyond the Seas, becauſe they would not be chid.</p>
+            <p>
+               <hi>Item,</hi> he told them that <hi>Wrens</hi> neſt was defiled, and that the Jeſuits and Friers had almoſt wept their eyes out for his fall.</p>
+            <p>
+               <hi>Item,</hi> all the Browniſts and Anabaptiſts, and the like, of what age ſoever, that ſhall come to be baptized, may have a twenty ſhilling piece laid on his forehead, as ſoone as the Miniſter ſhall have figned him with the ſigne of the Croſſe.</p>
+            <p>
+               <hi>Item,</hi> There is a booke come out of the Kings entertainment in Scotland ſome certaine dayes before he came there.</p>
+            <p>
+               <hi>Item,</hi> he ſwore that he never did tell a lye in all his life.</p>
+            <p>
+               <hi>Item,</hi> hee vowed moſt deeply that the Scots were as many in number as the ſtars in the sky.</p>
+            <p>
+               <hi>Item,</hi> he told that the Turk and the Jew were as good friends as ever was friend to friend.</p>
+            <p>
+               <hi>Item,</hi> he moſt falſly proteſted that he ſuffered
+<pb facs="tcp:157023:3"/>as much in Hungary of famine as ever did Ger<g ref="char:EOLhyphen"/>many in all its warres.</p>
+            <p>
+               <hi>Item,</hi> he vowed that our Biſhops did bend like greene ſticks, and therefore he thought that they would never break, and that they were all bow<g ref="char:EOLhyphen"/>ers to the Altar, and Papiſts, for they loved Ima<g ref="char:EOLhyphen"/>ges extraordinarily.</p>
+            <p>
+               <hi>Item,</hi> he told a moſt notable lye, that Law<g ref="char:EOLhyphen"/>yers in England did ſcorne to take any fees for pleading any cauſe: then ſaid one, How doe they live? he anſwered, like Camelions, they feed upon the ayre, and cloath themſelves with honeſty, which is the warmeſt weed they can weare in theſe times.</p>
+            <p>
+               <hi>Item,</hi> he ſwore that any man might ſteale any thing now in England, and never be ſhent for it, for all the Iudges are hanged becauſe they have taken bribes.</p>
+            <p>
+               <hi>Item,</hi> he proteſted that <hi>Gregory</hi> the Hangman is growne very rich, becauſe none are hanged.</p>
+            <p>
+               <hi>Item,</hi> he vowed he ſaw St. <hi>Pauls</hi> ſteeple ſtand in its owne place where it was built, and Cha<g ref="char:EOLhyphen"/>ring croſſe quite ruinated.</p>
+            <p>
+               <hi>Item,</hi> hee told that there were a great many Puritans in England, and that they did now ſo diſturbe the quietneſſe of the Commonwealth, that it was now almoſt turned topſie turvy.</p>
+            <p>
+               <hi>Item,</hi> hee proteſted that all the women in England were growne preciſe, and turned Prea<g ref="char:EOLhyphen"/>chers.</p>
+            <pb facs="tcp:157023:4"/>
+            <p> 
+               <hi>Item,</hi> hee told them that it was as common a thing for Sow-gelders, Tinkers, Felt-makers, Buttonmakers, Weavers, and Coblers, to preach in a tub, a joyn'd ſtoole, or ſuch like thing, as for a man to drinke when he is thirſty.</p>
+            <p>They heard him with patience till hee had made an end of his lying, and then they asked him whether yea or nay hee ſaw theſe things he ſpake of, he preſently ſwore all the oathts of God that he ſaw theſe things with his owne naturall eies, which he had reported, and he would maintaine it, though he ſpent his deareſt blood in the doeing of it; well they heard his proteſtations, and made a full account that they would prove his conſtancie whether he would be a Martyr yea or nay, in the meane time they horſed him, and this was the manner of it.</p>
+            <p>There was a great high thing raiſed to the hight of twelue of fourteene yards, made of Iron, whereon he was ſeated, with two great weights on his toes, and the like on his hands where he ſate in great paine, if he ſhould chance to caſe himſelfe upwards, there were ſharpe nailes over his head which would prick him, thus he ſate, and thus he ſuffered, till they had ſufficiently made a laughing ſtock of him; well when hee had ſuffered enough they let him downe, and incontinently he came backe againe into this country, where he related as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <pb facs="tcp:157023:4"/>
+            <p> The Emperour (ſaith he) hath given ſuch an overthow to the Sweeds that I thought not one would have returned againe; the Canons roared, the skies were dimmed with ſmoke, and the earth ſhooke with an earthquake; another time, the Swedes gave the Emperour ſuch an over<g ref="char:EOLhyphen"/>throw, that I dare ſay he will never riſe againe, which made the Pope proclaime a faſt for ſix and thenty weeks, but a pox choak them they cate fiſh a little too much.</p>
+            <p>A little after there was a commet ſeene in the ayre, forth the ſpace of two moneths, with great thundering and lightnings and ſuch like, which made all the whole Country amazed.</p>
+            <p>Theſe and ſuch like things he related till hee made the wearie eares of honeſt men glow, and if they had ſerved him as he was ſerved before he had had his deſert, and hang him that would pittie him for me, but in conceit either in the ſtocks, cage, counter, or Bridewell I leave him.</p>
+            <p>Gentle reader, I have heerre related under the name of lies nothing but trut tales, for if a man doth now ſpeake truth he ſhall be ſure to ſmart for it now a daies, either heere or in other places; read gentlie, and buy willingly.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
